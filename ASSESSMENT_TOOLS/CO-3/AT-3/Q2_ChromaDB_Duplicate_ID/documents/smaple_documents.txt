@@ -1,0 +1,9 @@
+Artificial Intelligence is used in healthcare, education, finance, and transportation.
+
+Machine Learning allows computers to learn patterns from data and make predictions.
+
+Generative AI can create text, images, code, and other types of content.
+
+Natural Language Processing helps computers understand and process human language.
+
+Computer Vision enables computers to analyze and understand images and videos.
