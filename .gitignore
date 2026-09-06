@@ -2,3 +2,6 @@
 .vscode/
 *.log
 .aireview-port.json
+
+**/.env
+**/.env.local
